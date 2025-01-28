@@ -1,4 +1,4 @@
-﻿ - [Sample applications](#Sample-applications)
+fff﻿ - [Sample applications](#Sample-applications)
     - [Video Recognizer](#Sample-applications-Video-Recognizer)
     - [Benchmark](#Sample-applications-Benchmark)
     - [Parser](#Sample-applications-Parser)
